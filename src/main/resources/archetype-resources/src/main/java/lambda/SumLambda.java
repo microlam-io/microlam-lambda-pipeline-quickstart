@@ -8,11 +8,11 @@ import io.microlam.aws.lambda.APIGatewayProxyLambda;
 import io.microlam.aws.lambda.pipeline.APIGatewayProxyRequestEventDecoder;
 import io.microlam.aws.lambda.pipeline.APIGatewayProxyResponseEventEncoder;
 import io.microlam.aws.lambda.pipeline.LambdaChannel;
-import io.microlam.example.bs.BusinessProcessorSum;
-import io.microlam.example.lambda.body.LambdaBodyIn;
-import io.microlam.example.lambda.body.LambdaBodyOut;
-import io.microlam.example.lambda.pipeline.PrepareBusinessParameters;
-import io.microlam.example.lambda.pipeline.PrepareResponseBody;
+import ${package}.bs.BusinessProcessorSum;
+import ${package}.lambda.body.LambdaBodyIn;
+import ${package}.lambda.body.LambdaBodyOut;
+import ${package}.lambda.pipeline.PrepareBusinessParameters;
+import ${package}.lambda.pipeline.PrepareResponseBody;
 
 public class SumLambda implements APIGatewayProxyLambda {
 

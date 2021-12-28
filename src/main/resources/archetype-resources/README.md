@@ -1,6 +1,6 @@
 # microlam-lambda-pipeline-quickstart
 
-Maven Archetype for creating minimal Microlam Lambda Pipeline Quickstart project
+This project has been created using the maven archetype microlam-lambda-pipeline-quickstart (Maven Archetype for creating minimal Microlam Lambda Pipeline Quickstart project)
 
 To use it:
 
