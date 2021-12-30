@@ -142,7 +142,7 @@ Deploy the App with SAM:
 sam deploy --template template-native.yaml
 ```
 
-####### Info: if something go wrong, or if you want to clean the AWS Account, you can delete everything related to the project in AWS with the command `sam delete`
+###### Info: if something go wrong, or if you want to clean the AWS Account, you can delete everything related to the project in AWS with the command `sam delete`
 
 
 ###### Create your AWS Lambda via the AWS Console
